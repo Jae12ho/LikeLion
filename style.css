@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Jua&display=swap");
+html {
+  font-family: "Jua", sans-serif;
+}
+#profile_img {
+  margin-top: 120px;
+  margin-bottom: 40px;
+  width: 250px;
+  height: 250px;
+}
+#profile_box {
+  font-family: "Jua", sans-serif;
+  background-color: white;
+  border-right: 1px solid black;
+  padding-bottom: 10%;
+}
+div {
+  border: 1px solid black;
+}
+#intro_box {
+  font-family: "Jua", sans-serif;
+}
+#icon_img {
+  color: black;
+}
+.footer {
+  background-color: antiquewhite;
+  padding: 10px;
+}
