@@ -10,20 +10,30 @@ html {
 }
 #profile_box {
   font-family: "Jua", sans-serif;
-  background-color: white;
-  border-right: 1px solid black;
+  background-color: rgb(177, 219, 210);
+
   padding-bottom: 10%;
 }
-div {
-  border: 1px solid black;
-}
 #intro_box {
+  font-family: "Jua", sans-serif;
+  padding: 40px;
+}
+#album_box {
+  text-align: center;
   font-family: "Jua", sans-serif;
 }
 #icon_img {
   color: black;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 .footer {
-  background-color: antiquewhite;
+  background-color: rgb(112, 168, 150);
   padding: 10px;
+  padding-left: 20px;
+}
+#album_box:hover {
+  box-shadow: 3px 3px 3px 3px rgb(182, 182, 182);
+  border-radius: 15px;
+  transition-duration: 0.4s;
 }
